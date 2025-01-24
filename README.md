@@ -39,9 +39,9 @@ Projenizi yerel ortamda çalıştırmak için aşağıdaki adımları izleyin:
    npm install
    ```
 
-3. **Projeyi Expo ile başlatın**:
+3. **Projeyi başlatın**:
    ```bash
-   npx expo start
+   npx start
    ```
 
 4. **Uygulamayı cihazda veya emülatörde çalıştırın**:
