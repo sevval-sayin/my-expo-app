@@ -9,13 +9,34 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/native-stack": "^7.2.0",
+    "@react-navigation/stack": "^7.1.1",
     "expo": "~52.0.27",
     "expo-status-bar": "~2.0.1",
+    "lottie-react-native": "^7.2.2",
+    "nativewind": "^2.0.11",
     "react": "18.3.1",
-    "react-native": "0.76.6"
+    "react-native": "0.76.6",
+    "react-native-collapsible": "^1.6.2",
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-paper": "^5.13.1",
+    "react-native-particles": "^0.0.8",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-safe-area-context": "^4.12.0",
+    "react-native-screens": "~4.4.0",
+    "react-native-shared-element": "^0.8.9",
+    "react-native-svg": "^15.11.1",
+    "react-native-svg-animated-linear-gradient": "^0.4.0",
+    "react-native-svg-transformer": "^1.5.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-navigation": "^5.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "tailwindcss": "^3.3.2"
   },
   "private": true
 }
