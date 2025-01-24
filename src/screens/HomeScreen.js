@@ -25,7 +25,7 @@ const HomeScreen = () => {
   );
 };
 
-//sdsfdfgdgdfgdkgdfgsefus
+//Deneme
 const styles = StyleSheet.create({
     header: {
       marginBottom: 20,
