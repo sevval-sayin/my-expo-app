@@ -29,17 +29,17 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
     header: {
       marginBottom: 20,
-      justifyContent: "center", // Dikeyde ortalar
-      alignItems: "center", // Yatayda ortalar
-      paddingHorizontal: 20, // Yatayda boşluk bırakır
-      paddingTop: 50, // Üstten yeterli boşluk bırakır
+      justifyContent: "center", 
+      alignItems: "center", 
+      paddingHorizontal: 20, 
+      paddingTop: 50, 
     },
     title: {
       fontSize: 24,
       fontWeight: "bold",
       textAlign: "center",
       color: "#3498db",
-      marginBottom: 10, // Başlık ve alt metin arasında boşluk
+      marginBottom: 10, 
     },
     subtitle: {
       fontSize: 16,
